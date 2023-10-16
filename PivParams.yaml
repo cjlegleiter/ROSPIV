@@ -1,0 +1,16 @@
+pixSize:  0.078041
+frameInterval:  1.0
+idealresolution:  3.6
+subpixMode:  1.0
+minvel:  0.1
+maxvel:  5.0
+stdThresh:  4.0
+medianFilt:  1.5
+infillFlag:  1.0
+smoothFlag:  1.0
+timeout:  60.0
+ptThresh:  0.2
+window:  5.0
+intArea:  94.0
+step:  47.0
+encoding:  grbg
