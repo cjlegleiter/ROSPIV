@@ -1,0 +1,3 @@
+To retrieve the ROS bag file SHIVER90cms1Hz.bag, please use this link:
+
+https://code.usgs.gov/wma/osd/trivia/-/blob/ROSPIV/ROSPIV/SHIVER90cms1Hz.bag
